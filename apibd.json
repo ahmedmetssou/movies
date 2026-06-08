@@ -1,4 +1,20 @@
 {
-"TMDB_API_KEY": "ddfaeb0cd81c325570658db7cd9b0c76"
-}
+  "TMDB_API_KEY": "ddfaeb0cd81c325570658db7cd9b0c76",
 
+  "ADS": {
+    "NETWORK": "ADMOB",
+    "INTERSTITIAL_AFTER_CLICKS": 3,
+
+    "ADMOB": {
+      "APP_ID": "ca-app-pub-3940256099942544~3347511713",
+      "BANNER_ID": "ca-app-pub-3940256099942544/6300978111",
+      "INTERSTITIAL_ID": "ca-app-pub-3940256099942544/1033173712"
+    },
+
+    "FACEBOOK": {
+      "APP_ID": "",
+      "BANNER_ID": "",
+      "INTERSTITIAL_ID": ""
+    }
+  }
+}
