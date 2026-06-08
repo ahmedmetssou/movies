@@ -1,16 +1,18 @@
 {
   "TMDB_API_KEY": "ddfaeb0cd81c325570658db7cd9b0c76",
 
+ 
   "ADS": {
     "NETWORK": "ADMOB",
     "INTERSTITIAL_AFTER_CLICKS": 3,
-
     "ADMOB": {
       "APP_ID": "ca-app-pub-8516185011430226~9476361927",
-      "BANNER_ID": "ca-app-pub-3940256099942544/6300978111",
-      "INTERSTITIAL_ID": "ca-app-pub-3940256099942544/1033173712"
+      "BANNER_ID": "ca-app-pub-XXXX/XXXX",
+      "INTERSTITIAL_ID": "ca-app-pub-XXXX/XXXX",
+      "REWARDED_ID": "ca-app-pub-XXXX/XXXX",
+      "NATIVE_ID": "ca-app-pub-XXXX/XXXX",
+      "APP_OPEN_ID": "ca-app-pub-XXXX/XXXX"
     },
-
     "FACEBOOK": {
       "APP_ID": "",
       "BANNER_ID": "",
