@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "test_mode": true,
+  "levelplay": {
+    "enabled": true,
+    "app_key": "DEBUG_MOCK_LEVELPLAY_APP_KEY",
+    "banner_enabled": true,
+    "banner_id": "DEBUG_MOCK_LEVELPLAY_BANNER",
+    "interstitial_enabled": true,
+    "interstitial_id": "DEBUG_MOCK_LEVELPLAY_INTERSTITIAL",
+    "interstitial_cooldown_seconds": 90,
+    "rewarded_enabled": false,
+    "rewarded_id": ""
+  },
+  "admob": {
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "app_open_enabled": true,
+    "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+    "app_open_min_background_seconds": 60,
+    "app_open_cooldown_seconds": 180
+  },
+  "force_update": {
+    "enabled": false,
+    "min_version_code": 4,
+    "title": "Update required",
+    "message": "A newer version of CineMaze is required. Please update from Google Play to continue.",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.cinemaze.app"
+  }
+}
