@@ -31,10 +31,10 @@
       "show_native": true,
       "show_app_open": true,
       "interstitial_click_interval": 2,
-      "banner_id": "ca-app-pub-5328735289157/2826403412",
-      "interstitial_id": "ca-app-pub-532873575157/1513321745",
-      "native_id": "ca-app-pub-532873528157/149858888",
-      "app_open_id": "ca-app-pub-5328735285157/920040073"
+      "banner_id": "ca-app-pub-8516185011430226/6943062303",
+      "interstitial_id": "ca-app-pub-8516185011430226/6954170554",
+      "native_id": "ca-app-pub-8516185011430226/5282116376",
+      "app_open_id": "ca-app-pub-8516185011430226/4487909452"
     },
     "content_urls": {
       "movies_url": "https://raw.githubusercontent.com/th3fouad1/xuper-data/refs/heads/main/movies.json",
